@@ -10,5 +10,6 @@
 
 感谢 FastBle 项目的作者 https://github.com/Jasonchenlijian ，该项目使蓝牙交互变得简单，项目地址：https://github.com/Jasonchenlijian/FastBle
 
-### 如果你也是该设备的用户，需要该APP可点击下载 https://raw.githubusercontent.com/wxw6860/BLEAPP/master/app-debug.apk
+### 如果你也是该设备的用户，需要该APP可点击下边链接地址下载
+     （若下载失败，请复制地址，使用迅雷下载：https://raw.githubusercontent.com/wxw6860/BLEAPP/master/app-debug.apk ）
 
